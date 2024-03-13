@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Netorc
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning LUA
+- 📫 How to reach me netorcbuisness@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: People say fun fact just to get your attention!
